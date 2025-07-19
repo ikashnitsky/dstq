@@ -1,0 +1,16 @@
+Package: dstq
+Type: Package
+Title: Quarto Templates for Statistics Denmark
+Version: 0.1.0
+Authors@R: c(
+    person("Ilya", "Kashnitsky", role = c("aut", "cre"), email = "ilya.kashnitsky@gmail.com", comment = c(ORCID = "0000-0003-1835-8687"))
+    )
+Maintainer: Ilya Kashnitsky <ilya.kashnitsky@gmail.com>
+Description: Templates for various documents that use typst and common corporate branding
+License: MIT
+Encoding: UTF-8
+LazyDataCompression:xz
+Depends: 
+    R (>= 3.5)
+URL: https://github.com/ikashnitsky/dstq
+LazyData: true
